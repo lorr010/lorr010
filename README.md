@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------
-<br><br>
+<br>
 
 ### Hi there! 👋
 
@@ -18,5 +18,5 @@ Hello! I'm a tech enthusiast with a focus on collaborative software engineering 
 
 Feel free to check out my repositories and let's collaborate on something extraordinary! 🔧✨
 
-<br><br>
+<br>
 ---------------------------------------------------------------------
