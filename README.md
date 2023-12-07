@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/lorr010/lorr010/blob/main/international-banner-1000.jpg?raw=true" width="100%" hspace="20"/>
+  <img src="https://github.com/lorr010/lorr010/blob/main/banner.png?raw=true" width="100%" hspace="20"/>
 </p>
 <br>
 
