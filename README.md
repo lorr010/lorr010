@@ -11,7 +11,6 @@ Hello! I'm a tech enthusiast with a focus on collaborative software engineering 
 **Languages:** Java, C, Python
 **Frameworks:** Intellij, CLion, Streamlit, Pycharm
 **Other:** Git & GitHub
-
 <br><br><br>
 
 ### Let's Connect 🤝
@@ -19,6 +18,6 @@ Hello! I'm a tech enthusiast with a focus on collaborative software engineering 
 [LinkedIn](www.linkedin.com/in/lorraine-ebanks-fiu)
 
 Feel free to check out my repositories and let's collaborate on something extraordinary! 🔧✨
-<br> <br><br>
+<br><br><br>
 
 ---------------------------------------------------------------------
