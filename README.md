@@ -1,6 +1,12 @@
 ---------------------------------------------------------------------
 <br><br>
 
+<br>
+<p align="center">
+  <img src="https://github.com/lorr010/lorr010/blob/main/international-banner-1000.jpg?raw=true" width="100%" hspace="20"/>
+</p>
+<br>
+
 ### Hi there! 👋
 
 Hello! I'm a tech enthusiast with a focus on collaborative software engineering projects. I enjoy crafting user-friendly experiences and bring a passion for innovation and teamwork to the table. Let's connect and create something awesome together!
